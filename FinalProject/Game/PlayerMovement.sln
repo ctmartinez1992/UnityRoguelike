@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{20A93150-271A-41FD-3EF2-3B7C094E633B}") = "PlayerMovement", "Assembly-CSharp.csproj", "{F62CFCC7-6BE9-0362-2B31-4E6AF8E3EBA6}"
+EndProject
+Project("{20A93150-271A-41FD-3EF2-3B7C094E633B}") = "PlayerMovement", "Assembly-CSharp-Editor.csproj", "{4A12F32B-E84D-197C-DF68-47701D2C5C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F62CFCC7-6BE9-0362-2B31-4E6AF8E3EBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62CFCC7-6BE9-0362-2B31-4E6AF8E3EBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62CFCC7-6BE9-0362-2B31-4E6AF8E3EBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62CFCC7-6BE9-0362-2B31-4E6AF8E3EBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A12F32B-E84D-197C-DF68-47701D2C5C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A12F32B-E84D-197C-DF68-47701D2C5C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A12F32B-E84D-197C-DF68-47701D2C5C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A12F32B-E84D-197C-DF68-47701D2C5C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,52 @@
+[
+	{
+		"item_type": 1,
+		"id": 0,
+		"name": "Steel Sword",
+		"slug": "steel_sword",
+		"description": "Sword made from steel.",
+		"rarity": 1,
+		"value": 100,
+		"stackable": false,
+		"stack_limit": 0,
+		"damage": 10
+	},
+	{
+		"item_type": 1,
+		"id": 1,
+		"name": "Copper Sword",
+		"slug": "copper_sword",
+		"description": "Sword made from copper.",
+		"rarity": 1,
+		"value": 90,
+		"stackable": true,
+		"stack_limit": 5,
+		"damage": 9
+	},
+	{
+		"item_type": 2,
+		"id": 2,
+		"name": "Steel Gloves",
+		"slug": "steel_gloves",
+		"description": "Gloves made from steel.",
+		"rarity": 1,
+		"value": 50,
+		"stackable": false,
+		"stack_limit": 0,
+		"armor": 5,
+		"armor_slot": 2
+	},
+	{
+		"item_type": 2,
+		"id": 3,
+		"name": "Copper Gloves",
+		"slug": "copper_gloves",
+		"description": "Gloves made from copper.",
+		"rarity": 1,
+		"value": 40,
+		"stackable": false,
+		"stack_limit": 0,
+		"armor": 4,
+		"armor_slot": 2
+	}
+]
